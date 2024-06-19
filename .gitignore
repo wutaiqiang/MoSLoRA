@@ -32,5 +32,6 @@ xtuner/
 *.out
 
 data/llava_data*
+data
 
 work_dirs/
