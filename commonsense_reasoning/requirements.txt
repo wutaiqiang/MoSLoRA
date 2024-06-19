@@ -1,0 +1,15 @@
+accelerate==0.29.2
+appdirs==1.4.4
+bitsandbytes==0.43.1
+black==24.4.0
+black[jupyter]
+datasets==2.18.0
+fire==0.6.0
+# git+https://github.com/huggingface/transformers.git
+
+transformers==4.40.0
+gradio==4.26.0
+
+sentencepiece==0.2.0
+protobuf==5.26.1
+torch==2.2.2
