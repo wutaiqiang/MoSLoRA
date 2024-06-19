@@ -80,7 +80,7 @@ Therefore, you can used the trained and converted weights for evalutions using [
 
 ## Initialization of Mixer
 
-Change the code in this [line]() to switch the initialization method.
+Change the code in this [line](https://github.com/wutaiqiang/MoSLoRA/blob/4e50e6046e3d411c9b73aa23a5b54c4cb7f9b8e6/visual_instruction_tuning/peft/tuners/lora/layer.py#L166) to switch the initialization method.
 
 
 # Acknowledge
